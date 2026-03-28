@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1774699282319" clover="3.2.0">
+  <project timestamp="1774699282320" name="All files">
+    <metrics statements="34" coveredstatements="34" conditionals="18" coveredconditionals="17" methods="7" coveredmethods="7" elements="59" coveredelements="58" complexity="0" loc="34" ncloc="34" packages="1" files="2" classes="2"/>
+    <file name="scoring.ts" path="/home/clawd/.openclaw/workspace/regatta-backend/src/scoring.ts">
+      <metrics statements="11" coveredstatements="11" conditionals="3" coveredconditionals="2" methods="4" coveredmethods="4"/>
+      <line num="12" count="1" type="stmt"/>
+      <line num="17" count="4" type="stmt"/>
+      <line num="26" count="4" type="stmt"/>
+      <line num="27" count="23" type="cond" truecount="2" falsecount="0"/>
+      <line num="28" count="16" type="stmt"/>
+      <line num="30" count="7" type="stmt"/>
+      <line num="32" count="35" type="stmt"/>
+      <line num="35" count="4" type="stmt"/>
+      <line num="36" count="4" type="stmt"/>
+      <line num="38" count="21" type="stmt"/>
+      <line num="40" count="4" type="stmt"/>
+    </file>
+    <file name="server.ts" path="/home/clawd/.openclaw/workspace/regatta-backend/src/server.ts">
+      <metrics statements="23" coveredstatements="23" conditionals="15" coveredconditionals="15" methods="3" coveredmethods="3"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="9" count="1" type="stmt"/>
+      <line num="10" count="1" type="stmt"/>
+      <line num="12" count="1" type="stmt"/>
+      <line num="13" count="7" type="stmt"/>
+      <line num="14" count="7" type="stmt"/>
+      <line num="17" count="7" type="stmt"/>
+      <line num="18" count="31" type="cond" truecount="7" falsecount="0"/>
+      <line num="19" count="1" type="stmt"/>
+      <line num="21" count="6" type="cond" truecount="4" falsecount="0"/>
+      <line num="22" count="1" type="stmt"/>
+      <line num="25" count="5" type="cond" truecount="4" falsecount="0"/>
+      <line num="27" count="5" type="stmt"/>
+      <line num="28" count="4" type="stmt"/>
+      <line num="30" count="1" type="stmt"/>
+      <line num="31" count="1" type="stmt"/>
+      <line num="35" count="1" type="stmt"/>
+      <line num="36" count="1" type="stmt"/>
+      <line num="39" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
